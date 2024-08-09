@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187097837966",
+    "project_id": "decisionmatrix-b434b",
+    "storage_bucket": "decisionmatrix-b434b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187097837966:android:1f99511ed3f43f408cf4df",
+        "android_client_info": {
+          "package_name": "com.example.decisionmatrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaffjO0Km834jAXxNdeib7fitnvMRMnHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
