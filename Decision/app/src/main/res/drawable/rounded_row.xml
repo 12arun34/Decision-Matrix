@@ -1,0 +1,6 @@
+<!-- rounded_table_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="8dp" /> <!-- Adjust the radius to control the curvature -->
+    <solid android:color="#735DAE" /> <!-- Background color -->
+</shape>

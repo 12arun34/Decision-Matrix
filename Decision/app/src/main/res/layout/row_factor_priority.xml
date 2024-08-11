@@ -1,0 +1,34 @@
+<!-- row_factor_priority.xml -->
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <!-- Serial number -->
+    <TextView
+        android:id="@+id/tvSerialNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingEnd="8dp"
+        android:text="1"
+        android:textColor="@android:color/black" />
+
+    <!-- Factor name -->
+    <TextView
+        android:id="@+id/tvFactorName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Factor Name"
+        android:textColor="@android:color/black" />
+
+    <!-- Priority selection -->
+    <Spinner
+        android:id="@+id/spinnerPriority"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/priority_values"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp" />
+
+</TableRow>
