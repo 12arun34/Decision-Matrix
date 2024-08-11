@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">187097837966</string>
+    <string name="google_api_key" translatable="false">AIzaSyBaffjO0Km834jAXxNdeib7fitnvMRMnHI</string>
+    <string name="google_app_id" translatable="false">1:187097837966:android:1f99511ed3f43f408cf4df</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBaffjO0Km834jAXxNdeib7fitnvMRMnHI</string>
+    <string name="google_storage_bucket" translatable="false">decisionmatrix-b434b.appspot.com</string>
+    <string name="project_id" translatable="false">decisionmatrix-b434b</string>
+</resources>
